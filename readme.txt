@@ -9,3 +9,6 @@ wasd/上下左右移动
 按下左ctrl下蹲
 按z舞棍
 鼠标左键进入攻击状态
+
+
+展示视频：https://www.bilibili.com/video/BV1nN4y1V7ck
